@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_cml_example"]=self["webpackChunkvue3_cml_example"]||[]).push([[850],{3598:function(e,t,o){o.r(t),o.d(t,{default:function(){return a}});var n=o(3396);function l(e,t,o,l,u,r){return(0,n.wg)(),(0,n.iD)("h2",null,"Axios 포스트 방식 예제")}var u=o(4161),r={data(){return{}},mounted(){u.Z.post("https://jsonplaceholder.typicode.com/posts",{userId:"1",title:"타이틀",body:"body 부분"}).then((e=>{console.log(e),console.log(e.data)}))}},s=o(89);const c=(0,s.Z)(r,[["render",l]]);var a=c}}]);
+//# sourceMappingURL=databing23.8874d620.js.map
